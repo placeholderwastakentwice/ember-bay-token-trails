@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+  <markercategory name="token_pack" DisplayName="Tear Token Pack" toggledefault="1">
+    <MarkerCategory name="token_1" DisplayName="Token #1"/>
+	<MarkerCategory name="token_2_and_3" DisplayName="Token #2 and #3"/>
+	<MarkerCategory name="token_4" DisplayName="Token #4"/>
+	<MarkerCategory name="token_5_and_8" DisplayName="Token #5 and #8"/>
+	<MarkerCategory name="token_6" DisplayName="Token #6"/>
+	<MarkerCategory name="token_7" DisplayName="Token #7"/>
+	<MarkerCategory name="token_9_and_38" DisplayName="Token #9 and #38"/>
+	<MarkerCategory name="token_10_and_36_and_37" DisplayName="Token #10 and #36 and #37"/>
+	<MarkerCategory name="token_11" DisplayName="Token #11"/>
+	<MarkerCategory name="token_12" DisplayName="Token #12"/>
+	<MarkerCategory name="token_13" DisplayName="Token #13"/>
+	<MarkerCategory name="token_14_and_27" DisplayName="Token #14 and #27"/>
+	<MarkerCategory name="token_15" DisplayName="Token #15"/>
+	<MarkerCategory name="token_16_and_21_and_28_and_39" DisplayName="Token #16 and #21 and #28 and #39"/>
+	<MarkerCategory name="token_17" DisplayName="Token #17"/>
+	<MarkerCategory name="token_18_and_19_and_35" DisplayName="Token #18 and #19 and #35"/>
+	<MarkerCategory name="token_20_and_34" DisplayName="Token #20 and #34"/>
+	<MarkerCategory name="token_22" DisplayName="Token #22"/>
+	<MarkerCategory name="token_23_and_24" DisplayName="Token #23 and #24"/>
+	<MarkerCategory name="token_25" DisplayName="Token #25"/>
+	<MarkerCategory name="token_26" DisplayName="Token #26"/>
+	<MarkerCategory name="token_29" DisplayName="Token #29"/>
+	<MarkerCategory name="token_30" DisplayName="Token #30"/>
+	<MarkerCategory name="token_31" DisplayName="Token #31"/>
+	<MarkerCategory name="token_32" DisplayName="Token #32"/>
+	<MarkerCategory name="token_33" DisplayName="Token #33"/>
+	<MarkerCategory name="token_40" DisplayName="Token #40"/>
+  </markercategory>
+</overlaydata>

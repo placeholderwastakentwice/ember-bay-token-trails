@@ -1,2 +1,2 @@
-# ember-bay-token-trails
+# Tear Token pack
 A marker pack for ember bay tokens.

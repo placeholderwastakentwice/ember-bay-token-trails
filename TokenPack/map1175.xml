@@ -84,8 +84,8 @@
 	<POI MapID="1175" xpos="-580.635" ypos="112.171" zpos="28.4466" type="token_pack.token_25" GUID="SCy0foC0AUaUAeriBCW98g==" iconfile="Data/icons/token_25_icon.png"/>
 	<POI MapID="1175" xpos="-576.56" ypos="115.606" zpos="-420.625" type="token_pack.token_26" GUID="5Uofj+bemUySJM4yU3DOhw==" iconfile="Data/icons/token_26_icon.png"/>
 	<POI MapID="1175" xpos="314.11" ypos="98.512" zpos="210.626" type="token_pack.token_26" GUID="ujjML62ZbkSuZ2OVcf1l8A==" iconfile="Data/icons/token_26_icon.png"/>
-	<POI MapID="1175" xpos="-453.129" ypos="240.253" zpos="-75.327" type="token_pack.token_29" GUID="lYgm/2omDUmijcj7h77vXg==" iconfile="Data/icons/token_29_icon.png"/>
-	<POI MapID="1175" xpos="-532.325" ypos="251.194" zpos="-5.1045" type="token_pack.token_29" GUID="PlR5gs9ZIEKDVcE6tHzl0Q==" iconfile="Data/icons/token_29_icon.png"/>
+	<POI MapID="1175" xpos="-532.325" ypos="251.194" zpos="-5.1045" type="token_pack.token_29" GUID="lYgm/2omDUmijcj7h77vXg==" iconfile="Data/icons/token_29_icon.png"/>
+	<POI MapID="1175" xpos="-445.605" ypos="179.179" zpos="-73.1428" type="token_pack.token_29" GUID="PlR5gs9ZIEKDVcE6tHzl0Q==" iconfile="Data/icons/token_29_icon.png"/>
 	<POI MapID="1175" xpos="556.522" ypos="12.1613" zpos="-290.009" type="token_pack.token_30" GUID="nx6D8HRUUkij2EtRdTucBg==" iconfile="Data/icons/token_30_icon.png"/>
 	<POI MapID="1175" xpos="570.337" ypos="16.5144" zpos="-330.862" type="token_pack.token_30" GUID="gUhcdHHxCUG1J7JbedBufg==" iconfile="Data/icons/token_30_icon.png"/>
 	<POI MapID="1175" xpos="-537.667" ypos="251.681" zpos="-6.89836" type="token_pack.token_31" GUID="/2VlV6ZDE0mYsqyy2b0K9Q==" iconfile="Data/icons/token_31_icon.png"/>

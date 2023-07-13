@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<overlaydata>
-  <markercategory name="token_pack" DisplayName="Tear Token Pack" toggledefault="1">
+<OverlayData>
+  <MarkerCategory name="token_pack" DisplayName="Tear Token Pack" toggledefault="1">
     <MarkerCategory name="token_1" DisplayName="Token #1"/>
 	<MarkerCategory name="token_2_and_3" DisplayName="Token #2 and #3"/>
 	<MarkerCategory name="token_4" DisplayName="Token #4"/>
@@ -28,5 +28,9 @@
 	<MarkerCategory name="token_32" DisplayName="Token #32"/>
 	<MarkerCategory name="token_33" DisplayName="Token #33"/>
 	<MarkerCategory name="token_40" DisplayName="Token #40"/>
-  </markercategory>
-</overlaydata>
+	<MarkerCategory name="credits" DisplayName="Credits" toggledefault="1">
+	  <MarkerCategory name="credits_madeby" DisplayName="Made by Flooch.7318" isseparator="1"/>
+	  <MarkerCategory name="credits_help" DisplayName="Made possible with help from The Chalice of Fun [Tear] on NA" isseparator="1"/>
+	</MarkerCategory>
+  </MarkerCategory>
+</OverlayData>

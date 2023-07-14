@@ -97,6 +97,6 @@
 	<POI MapID="1175" xpos="318.706" ypos="97.8627" zpos="204.742" type="token_pack.token_40" GUID="9jqE5DZA/k6yUZpMYt1t1Q==" iconfile="Data/icons/token_40_icon.png"/>
 	<POI MapID="1175" xpos="815.016" ypos="4.63695" zpos="190.559" type="token_pack.token_40" GUID="XVZE3q2I1EOIj/6VEtFvBA==" iconfile="Data/icons/token_40_icon.png"/>
 	<POI MapID="1175" xpos="-616.197" ypos="0.559614" zpos="-522.809" type="token_pack" GUID="A/E/FN4dtkuSJ7JtVJNsVQ==" iconFile="Data/icons/chalice_bypass.png"/>
-	<POI MapID="1175" xpos="-532.799" ypos="249.981" zpos="-11.0612" GUID="4ho1CmDFXkC+T9ibN2BQSQ==" iconFile="Data/icons/chalice_signpost.png"/>
+	<POI MapID="1175" xpos="-532.799" ypos="249.981" zpos="-11.0612" type="token_pack" GUID="4ho1CmDFXkC+T9ibN2BQSQ==" iconFile="Data/icons/chalice_signpost.png"/>
   </POIs>
 </OverlayData>

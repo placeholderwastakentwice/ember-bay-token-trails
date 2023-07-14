@@ -31,6 +31,7 @@
 	<MarkerCategory name="credits" DisplayName="Credits" toggledefault="1">
 	  <MarkerCategory name="credits_madeby" DisplayName="Made by Flooch.7318" isseparator="1"/>
 	  <MarkerCategory name="credits_help" DisplayName="Made possible with help from The Chalice of Fun [Tear] on NA" isseparator="1"/>
+	  <MarkerCategory name="credits_special" DisplayName="Special thanks to Darien.7920 and ChristopherDavenport.7391" isseparator="1"/>
 	</MarkerCategory>
   </MarkerCategory>
 </OverlayData>

@@ -19,10 +19,10 @@
 	<Trail type="token_pack.token_18_and_19_and_35" trailData="Data/trails/token_trail_18_and_19_and_35.trl" texture="Data/trail.png" color="6100b0" alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
 	<Trail type="token_pack.token_20_and_34" trailData="Data/trails/token_trail_20_and_34.trl" texture="Data/trail.png" color="fe6bd7" alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
 	<Trail type="token_pack.token_22" trailData="Data/trails/token_trail_22.trl" texture="Data/trail.png" color="ffef08" alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
-	<Trail type="token_pack.token_23_and_24" trailData="Data/trails/token_trail_23_and_24.trl" texture="Data/trail.png" color="6100b0 " alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
+	<Trail type="token_pack.token_23_and_24" trailData="Data/trails/token_trail_23_and_24.trl" texture="Data/trail.png" color="ffef08 " alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
 	<Trail type="token_pack.token_25" trailData="Data/trails/token_trail_25.trl" texture="Data/trail.png" color="FFA500" alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
 	<Trail type="token_pack.token_26" trailData="Data/trails/token_trail_26.trl" texture="Data/trail.png" color="f94548" alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
-	<Trail type="token_pack.token_29" trailData="Data/trails/token_trail_29.trl" texture="Data/trail.png" color="fe6bd7" alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
+	<Trail type="token_pack.token_29" trailData="Data/trails/token_trail_29.trl" texture="Data/trail.png" color="0fcd00" alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
 	<Trail type="token_pack.token_30" trailData="Data/trails/token_trail_30.trl" texture="Data/trail.png" color="ffef08" alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
 	<Trail type="token_pack.token_31" trailData="Data/trails/token_trail_31.trl" texture="Data/trail.png" color="2d60f9" alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
 	<Trail type="token_pack.token_32" trailData="Data/trails/token_trail_32.trl" texture="Data/trail.png" color="0fcd00" alpha="1" fadeNear="-1" fadeFar="4000" animSpeed="1"/>
